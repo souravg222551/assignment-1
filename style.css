@@ -1,0 +1,33 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+input {
+    width: 300px;
+    padding: 5px;
+    border: 2px solid #ccc;
+}
+button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.message {
+    font-size: 20px;
+    margin-top: 10px;
+}
+.green {
+    color: green;
+}
+.red {
+    color: red;
+}
+.red-border {
+    border-color: red !important;
+}
+.green-border {
+    border-color: green !important;
+}
